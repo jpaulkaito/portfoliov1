@@ -16,15 +16,15 @@ const greeting = {
   full_name: "Jim Paul Padayhag",
   subTitle: "🔥 Front-End Developer. 🔥 Backend Developer. 🔥 Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1Ty0-51DZ72PE30kfJ2p1jjw9SHYCnDAi/view?usp=sharing",
-  mail: "mailto:jpaulkaito@gmail.com",
+    "https://drive.google.com/file/d/18MRVEvPKToY026oB13maXeajgeMTebtT/view?usp=drive_link",
+  mail: "mailto:jpadayhag@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/jpaulkaito",
   linkedin: "https://www.linkedin.com/in/jppadayhag/",
-  gmail: "jpaulkaito@gmail.com",
+  gmail: "jpadayhag@gmail.com",
   //gitlab: "https://gitlab.com/jpaulkaito",
   //facebook: "https://www.facebook.com/",
   //twitter: "https://twitter.com/",
@@ -39,9 +39,8 @@ const skills = {
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+        "⚡ Developing mobile applications using React-Native and Android",
+        "⚡ Creating application backend in Node, Express & MongoDB",
       ],
       softwareSkills: [
         {
@@ -136,13 +135,13 @@ const skills = {
         //     color: "#29B0EE",
         //   },
         // },
-        // {
-        //   skillName: "Visual Basic",
-        //   fontAwesomeClassname: "simple-icons:dot-net",
-        //   style: {
-        //     color: "#029FCE",
-        //   },
-        // },
+        {
+          skillName: "Visual Basic",
+          fontAwesomeClassname: "simple-icons:dot-net",
+          style: {
+            color: "#029FCE",
+          },
+        },
         {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
@@ -150,13 +149,13 @@ const skills = {
             color: "#4479A1",
           },
         },
-        // {
-        //   skillName: "jQuery",
-        //   fontAwesomeClassname: "simple-icons:jquery",
-        //   style: {
-        //     color: "#0865A6",
-        //   },
-        // },
+        {
+          skillName: "jQuery",
+          fontAwesomeClassname: "simple-icons:jquery",
+          style: {
+            color: "#0865A6",
+          },
+        },
         {
           skillName: "Wordpress",
           fontAwesomeClassname: "simple-icons:wordpress",
@@ -171,127 +170,127 @@ const skills = {
             color: "#CA1A22",
           },
         },
-        {
-          skillName: "Git",
-          fontAwesomeClassname: "simple-icons:git",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "simple-icons:python",
-          style: {
-            color: "#3776AB",
-          },
-        },
+        // {
+        //   skillName: "Git",
+        //   fontAwesomeClassname: "simple-icons:git",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
+        // {
+        //   skillName: "C",
+        //   fontAwesomeClassname: "simple-icons:c",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
+        // {
+        //   skillName: "C++",
+        //   fontAwesomeClassname: "simple-icons:cplusplus",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
+        // {
+        //   skillName: "Python",
+        //   fontAwesomeClassname: "simple-icons:python",
+        //   style: {
+        //     color: "#3776AB",
+        //   },
+        // },
       ],
     },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
-      ],
-      softwareSkills: [
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Netlify",
-          fontAwesomeClassname: "simple-icons:netlify",
-          style: {
-            color: "#38AFBB",
-          },
-        },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#6863A6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "GitHub Actions",
-          fontAwesomeClassname: "simple-icons:githubactions",
-          style: {
-            color: "#5b77ef",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "Cloud Infra-Architecture",
+    //   fileName: "CloudInfraImg",
+    //   skills: [
+    //     "⚡ Experience working on multiple cloud platforms",
+    //     "⚡ Experience hosting and managing websites",
+    //     "⚡ Experience with Continuous Integration",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "AWS",
+    //       fontAwesomeClassname: "simple-icons:amazonaws",
+    //       style: {
+    //         color: "#FF9900",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Netlify",
+    //       fontAwesomeClassname: "simple-icons:netlify",
+    //       style: {
+    //         color: "#38AFBB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Heroku",
+    //       fontAwesomeClassname: "simple-icons:heroku",
+    //       style: {
+    //         color: "#6863A6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Firebase",
+    //       fontAwesomeClassname: "simple-icons:firebase",
+    //       style: {
+    //         color: "#FFCA28",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PostgreSQL",
+    //       fontAwesomeClassname: "simple-icons:postgresql",
+    //       style: {
+    //         color: "#336791",
+    //       },
+    //     },
+    //     {
+    //       skillName: "MongoDB",
+    //       fontAwesomeClassname: "simple-icons:mongodb",
+    //       style: {
+    //         color: "#47A248",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Docker",
+    //       fontAwesomeClassname: "simple-icons:docker",
+    //       style: {
+    //         color: "#1488C6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "GitHub Actions",
+    //       fontAwesomeClassname: "simple-icons:githubactions",
+    //       style: {
+    //         color: "#5b77ef",
+    //       },
+    //     },
+    //   ],
+    // },
   ],
 };
 
 const degrees = {
   degrees: [
     {
-      title: "Shantilal Shah Engineering College",
-      subtitle: "Bachelor in Information Technology",
-      logo_path: "ssec.png",
-      alt_name: "SSEC",
-      duration: "2021 - Present",
+      title: "Nucamp Coding Bootcamp",
+      subtitle: "Full Stack Web and Mobile Development, Computer Programming",
+      logo_path: "nucamp.png",
+      alt_name: "NuCamp",
+      duration: "April 2023 - November 2023",
       descriptions: [
-        "⚡ I'm currently pursuing my bachelors in Information Technology.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡ Completed an intensive Full Stack Web and Mobile Development Bootcamp, gaining expertise in both front-end and back-end technologies.",
+        "⚡ Explored core subjects such as Data Structures, DBMS, Networking, and Security, enhancing my overall technical knowledge.",
+        "⚡ Enriched my skill set through various online courses covering Backend, Web, and Mobile App Development.",
+        "⚡ Applied theoretical knowledge to practical scenarios by successfully implementing several projects, showcasing proficiency acquired during my Computer Engineering course.",
       ],
-      website_link: "http://www.ssgec.ac.in/",
+      website_link: "https://www.nucamp.co/",
     },
     {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
-      subtitle: "Diploma in Information Technology",
-      logo_path: "ssgandhy.png",
-      alt_name: "SSGC",
+      title: "Xavier University - Ateneo de Cagayan",
+      subtitle: "Bachelor Degree in Computer Science",
+      logo_path: "xu.png",
+      alt_name: "XU",
       duration: "2018 - 2021",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
