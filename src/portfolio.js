@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Jim Paul Padayhag",
   subTitle: "🔥 Front-End Developer. 🔥 Backend Developer. 🔥 Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/18MRVEvPKToY026oB13maXeajgeMTebtT/view?usp=drive_link",
+    "https://1drv.ms/b/s!Ag6qI1TzjsIJgrIEnJ6Wj2_GIXUXew?e=53ectK",
   mail: "mailto:jpadayhag@gmail.com",
 };
 
@@ -309,7 +309,7 @@ const certifications = {
       subtitle: "MongoDB University",
       logo_path: "mongo.png",
       certificate_link:
-        "https://drive.google.com/file/d/12se6bMep48WXA1PlizTBAgCnW0GXM6wq/view?usp=sharing",
+        "",
       alt_name: "MongoDB University",
       // color_code: "#2AAFED",
       color_code: "#47A048",
@@ -319,7 +319,7 @@ const certifications = {
       subtitle: "Hack The Mountains",
       logo_path: "hackathon1.svg",
       certificate_link:
-        "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
+        "",
       alt_name: "hackathon",
       color_code: "#E2405F",
     },
@@ -328,7 +328,7 @@ const certifications = {
       subtitle: "MongoDB University",
       logo_path: "mongo.png",
       certificate_link:
-        "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
+        "",
       alt_name: "MongoDB University",
       // color_code: "#F6B808",
       color_code: "#47A048",
@@ -338,7 +338,7 @@ const certifications = {
       subtitle: "Workshop at IIT Bombay",
       logo_path: "iit.png",
       certificate_link:
-        "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
+        "",
       alt_name: "Workshop",
       color_code: "#2AAFED",
     },
@@ -347,7 +347,7 @@ const certifications = {
       subtitle: "Major League Hacking",
       logo_path: "mlh-logo.svg",
       certificate_link:
-        "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
+        "",
       alt_name: "Google",
       color_code: "#fe0037",
     },
@@ -356,7 +356,7 @@ const certifications = {
       subtitle: "Flutter International Hackathon",
       logo_path: "flutter.png",
       certificate_link:
-        "https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing",
+        "",
       alt_name: "Flutter International Hackathon",
       color_code: "#2AAFED",
     },
