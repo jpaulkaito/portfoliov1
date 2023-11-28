@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "jpaulkaitoPortfolio",
-  "homepage": "http://jpaulkaito.github.io/Portfolio",
+  "homepage": "http://jpaulkaito.github.io/portfoliov1/",
   "version": "1.0.0",
   "scripts": {
     "predeploy": "npm run build",
