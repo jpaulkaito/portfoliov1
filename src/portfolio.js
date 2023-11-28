@@ -293,12 +293,11 @@ const degrees = {
       alt_name: "XU",
       duration: "2018 - 2021",
       descriptions: [
-        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-        "⚡ I have secured 9.82 CGPA.",
+        "⚡ Completed a comprehensive curriculum covering core subjects such as Data Structures, DBMS, Networking, Security, and more.",
+        "⚡ Enriched my learning through various online courses, specializing in Backend Development, Web Development, Mobile App Development, and other relevant topics.",
+        "⚡ Successfully applied theoretical knowledge to practical scenarios through the implementation of diverse projects aligned with the Computer Engineering course.",
       ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      website_link: "https://www.xu.edu.ph/",
     },
   ],
 };

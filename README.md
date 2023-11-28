@@ -1,7 +1,3 @@
-# PortfolioV2
-
-![PortfolioV2](/images/portfolio1.gif)
-
 ### A clean portfolio template. (Readme will be updated soon)
 
 # Sections
@@ -23,13 +19,6 @@
 - Replace `homepage` in package.json to your domain name or `https://<username>.github.io`
 - In `src/portfolio.js` you can add your personal portfolio details.
 - In `src/theme.js` you can change the theme colors. You can change between Light and Dark theme with the theme switch on the header.
-
-# How to Deploy
-
-- Once you are done with your setup and have successfully completed all steps above, you need to put your website online!
-- I highly recommend using [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to achieve this the EASIEST WAY.
-- To deploy your website, you have two options. First you need to create a github repository with the name `<your-github-username>.github.io`. Please don't give it any other name.
-- Now, you need to generate a production build and deploy the website.
 
 **Option 1:**
 
@@ -53,12 +42,3 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 - [baseui](https://github.com/uber/baseweb)
 - [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
-
-# illustrations 🍥
-
-- [UnDraw](https://undraw.co/illustrations)
-
-# References
-
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
